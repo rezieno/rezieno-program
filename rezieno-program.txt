@@ -4,4 +4,6 @@ Resolusi
 - Mochachai
 - Playwright
 - Start Automation Mobile next week 
+- R&D for Automation Mobile 
+- Web driver.io, Appium, Selenium Appium
 
