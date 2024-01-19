@@ -3,7 +3,8 @@ Resolusi
 - Git & Github
 - Mochachai
 - Playwright
-- Start Automation Mobile next week 
+- Start Automation Mobile soon
 - R&D for Automation Mobile 
 - Web driver.io, Appium, Selenium Appium
-
+- Ini di delete
+- yhayha feby
